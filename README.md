@@ -1,7 +1,9 @@
 # NYCU_Competitive_Programming1
 ## Hw1
-Monotonic stack/queue and other topics
+Some trivial problems 
 ## Hw2
-DSU
+Monotonic stack/queue and other topics
 ## Hw3
+DSU and its extend
+## Hw4
 Fenwick Tree, Binary search and dijkstra
