@@ -1,11 +1,16 @@
 # NYCU_Competitive_Programming1
-- Hw1
+- Hw1 
+  - [Scoreboard](https://open.kattis.com/contests/bw78fe)
   - Some trivial problems 
 - Hw2
+  - [Scoreboard](https://open.kattis.com/contests/vrysui)
   - Monotonic stack/queue and other topics
 - Hw3
+  - [Scoreboard](https://open.kattis.com/contests/nffp9r)
   - DSU and its extend
 - Hw4
+  - [Scoreboard](https://open.kattis.com/contests/vkyd7b/)
   - Fenwick Tree, Binary search and dijkstra
 - Hw5
+  - [Scoreboard](https://open.kattis.com/contests/hbyy5j)
   - Some recursion, number theory and fft. fft好難...
