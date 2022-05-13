@@ -14,3 +14,6 @@
 - Hw5
   - [Scoreboard](https://open.kattis.com/contests/hbyy5j)
   - Some recursion, number theory and fft. fft好難...
+- Hw6
+  - [Scoreboard](https://open.kattis.com/contests/c64ii9/standings) 
+  - DP好難
