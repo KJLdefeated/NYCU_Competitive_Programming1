@@ -19,7 +19,7 @@
   - DP好難
 - Hw7
   - [Scoreboard](https://open.kattis.com/contests/sxj8c7/standings)
-  - 計算幾何、TSP問題、強連通分量縮點（？
+  - 計算幾何、TSP問題、強連通分量縮點、
 - Hw8
   - [Scoreboard](https://open.kattis.com/contests/zbpgst)
-  - DP、LCA、樹半徑（？
+  - DP、LCA、樹半徑
