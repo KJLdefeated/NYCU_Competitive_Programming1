@@ -66,8 +66,6 @@ void solve(){
             }
         }
     }
-    //for(int i=1;i<=n;i++)cout<<ps[i]<<' ';
-    //cout<<endl;
     vector<int> ans;
     for(int i=1;i<=n;i++){
         int idx=i;
